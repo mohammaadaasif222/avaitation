@@ -1,0 +1,164 @@
+[
+  {
+    "source": "Delhi",
+    "destination": "Mumbai",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹1,614"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹1,869"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,133"
+      }
+    ]
+  },
+  {
+    "source": "Delhi",
+    "destination": "Chennai",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹2,100"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹2,300"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,600"
+      }
+    ]
+  },
+  {
+    "source": "Delhi",
+    "destination": "Kolkata",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹1,800"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹2,000"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,300"
+      }
+    ]
+  },
+  {
+    "source": "Mumbai",
+    "destination": "Chennai",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹1,900"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹2,100"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,400"
+      }
+    ]
+  },
+  {
+    "source": "Mumbai",
+    "destination": "Kolkata",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹2,200"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹2,400"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,700"
+      }
+    ]
+  },
+  {
+    "source": "Chennai",
+    "destination": "Kolkata",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹1,700"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹1,900"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,200"
+      }
+    ]
+  },
+  {
+    "source": "Delhi",
+    "destination": "Jaipur",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹1,300"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹1,500"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹1,800"
+      }
+    ]
+  },
+  {
+    "source": "Mumbai",
+    "destination": "Jaipur",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹1,700"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹1,900"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,100"
+      }
+    ]
+  },
+  {
+    "source": "Chennai",
+    "destination": "Jaipur",
+    "airlines": [
+      {
+        "name": "Indigo",
+        "price": "₹2,200"
+      },
+      {
+        "name": "AirAsia",
+        "price": "₹2,400"
+      },
+      {
+        "name": "Vistara",
+        "price": "₹2,700"
+      }
+    ]
+  }
+]
