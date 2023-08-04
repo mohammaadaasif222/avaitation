@@ -22,6 +22,9 @@ app.use(cookieParser());
 
 // Assuming you have your Mongoose model defined as 'Flights' with the flightSchema
 
+app.get("/", async (req, res) => {
+ res.status(200).json("Hello server")
+});
 app.post("/api/flights", async (req, res) => {
   try {
     const { source, destination } = req.body;
