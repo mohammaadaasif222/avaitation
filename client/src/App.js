@@ -12,7 +12,7 @@ function App() {
       alert("Please Choose the City first !");
     }
     axios
-      .post("http://localhost:5000/api/flights", {
+      .post("https://avaitation.onrender.com/api/flights", {
         source: sourceCity,
         destination: destinationCity,
       })
